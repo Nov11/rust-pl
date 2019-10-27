@@ -1,0 +1,7 @@
+[workspace]
+members=[
+"ch01",
+"cmd",
+"concurrency",
+"simple-web-server"
+]
