@@ -3,5 +3,6 @@ members=[
 "ch01",
 "cmd",
 "concurrency",
-"simple-web-server"
+"simple-web-server",
+"guess-game"
 ]
