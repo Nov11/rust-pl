@@ -1,0 +1,5 @@
+[package]
+name = "ref-scope"
+version = "0.1.0"
+authors = ["Nov11 <529079634@qq.com>"]
+edition = "2018"
