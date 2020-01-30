@@ -5,5 +5,6 @@ members=[
 "concurrency",
 "simple-web-server",
 "guess-game",
-"ref-scope"
+"ref-scope",
+"modules"
 ]
