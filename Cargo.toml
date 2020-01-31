@@ -6,5 +6,6 @@ members=[
 "simple-web-server",
 "guess-game",
 "ref-scope",
-"modules"
+"modules",
+"minigrep",
 ]
