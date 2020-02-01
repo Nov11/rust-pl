@@ -8,4 +8,7 @@ members=[
 "ref-scope",
 "modules",
 "minigrep",
+"add_one",
+"add_two",
+"adder",
 ]
