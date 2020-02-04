@@ -68,6 +68,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "box-usage"
+version = "0.1.0"
+
+[[package]]
 name = "byteorder"
 version = "1.3.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -675,6 +679,10 @@ dependencies = [
 name = "smallvec"
 version = "0.6.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "state-pattern"
+version = "0.1.0"
 
 [[package]]
 name = "time"

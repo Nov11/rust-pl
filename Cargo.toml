@@ -11,4 +11,6 @@ members=[
 "add_one",
 "add_two",
 "adder",
+"box-usage",
+"state-pattern",
 ]
