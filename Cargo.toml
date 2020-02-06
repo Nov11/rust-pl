@@ -13,4 +13,6 @@ members=[
 "adder",
 "box-usage",
 "state-pattern",
+"ch19",
+"ch20",
 ]
