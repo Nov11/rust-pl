@@ -15,4 +15,5 @@ members=[
 "state-pattern",
 "ch19",
 "ch20",
+"closures",
 ]
